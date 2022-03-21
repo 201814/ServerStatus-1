@@ -3,29 +3,119 @@
   {
    "username": "1",
    "password": "1",
-   "name": "腾讯云-上海",
+   "name": "德国-Heznter",
    "type": "KVM",
    "host": "None",
-   "location": "CN",
+   "location": "DE",
    "disabled": false
   },
   {
    "username": "2",
    "password": "2",
-   "name": "阿里云-香港",
+   "name": "Hax免费鸡",
+   "type": "KVM",
+   "host": "None",
+   "location": "DE",
+   "disabled": false
+  },
+  {
+   "username": "3",
+   "password": "3",
+   "name": "Scaleway-星辰",
+   "type": "KVM",
+   "host": "None",
+   "location": "FR",
+   "disabled": false
+  },
+  {
+   "username": "4",
+   "password": "4",
+   "name": "三毛鸡",
+   "type": "KVM",
+   "host": "None",
+   "location": "RU",
+   "disabled": false
+  },
+  {
+   "username": "5",
+   "password": "5",
+   "name": "五毛鸡",
+   "type": "KVM",
+   "host": "None",
+   "location": "RU",
+   "disabled": false
+  },
+  {
+   "username": "6",
+   "password": "6",
+   "name": "香港-华为云",
    "type": "KVM",
    "host": "None",
    "location": "HK",
    "disabled": false
   },
   {
-   "username": "3",
-   "password": "3",
-   "name": "谷歌云-日本",
+   "username": "7",
+   "password": "7",
+   "name": "香港-HKT商宽",
    "type": "KVM",
    "host": "None",
-   "location": "JP",
+   "location": "HK",
    "disabled": false
-  }
+  },
+  {
+   "username": "8",
+   "password": "8",
+   "name": "新加坡-Do",
+   "type": "KVM",
+   "host": "None",
+   "location": "SG",
+   "disabled": false
+  },
+  {
+   "username": "9",
+   "password": "9",
+   "name": "美国-cloudcone",
+   "type": "KVM",
+   "host": "None",
+   "location": "US",
+   "disabled": false
+  },
+  {
+   "username": "10",
+   "password": "10",
+   "name": "美国-RN",
+   "type": "KVM",
+   "host": "None",
+   "location": "US",
+   "disabled": false
+  },
+  {
+   "username": "11",
+   "password": "11",
+   "name": "webdock",
+   "type": "KVM",
+   "host": "None",
+   "location": "CA",
+   "disabled": false
+  },
+  {
+   "username": "12",
+   "password": "12",
+   "name": "广州移动",
+   "type": "KVM",
+   "host": "None",
+   "location": "CN",
+   "disabled": false
+  },
+  {
+   "username": "13",
+   "password": "13",
+   "name": "Euserv",
+   "type": "KVM",
+   "host": "None",
+   "location": "DE",
+   "disabled": false
+  },
  ]
 }
