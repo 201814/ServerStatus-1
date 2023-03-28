@@ -3,10 +3,10 @@
   {
    "username": "1",
    "password": "1",
-   "name": "Hax免费鸡",
+   "name": "OVH-0.97",
    "type": "KVM",
    "host": "None",
-   "location": "DE",
+   "location": "美国",
    "disabled": false
   },
   {
@@ -15,34 +15,34 @@
    "name": "Scaleway-星辰",
    "type": "KVM",
    "host": "None",
-   "location": "FR",
+   "location": "法国",
    "disabled": false
   },
   {
    "username": "3",
    "password": "3",
-   "name": "三毛鸡",
+   "name": "server-factory",
    "type": "KVM",
    "host": "None",
-   "location": "RU",
+   "location": "荷兰",
    "disabled": false
   },
   {
    "username": "4",
    "password": "4",
-   "name": "香港-华为云",
+   "name": "Web Horizon-",
    "type": "KVM",
    "host": "None",
-   "location": "HK",
+   "location": "荷兰",
    "disabled": false
   },
   {
    "username": "5",
    "password": "5",
-   "name": "新加坡-Do",
+   "name": "vpsweb-hv03",
    "type": "KVM",
    "host": "None",
-   "location": "SG",
+   "location": "英国",
    "disabled": false
   },
   {
@@ -51,7 +51,7 @@
    "name": "美国-cloudcone",
    "type": "KVM",
    "host": "None",
-   "location": "US",
+   "location": "美国",
    "disabled": false
   },
   {
@@ -60,7 +60,7 @@
    "name": "美国-RN",
    "type": "KVM",
    "host": "None",
-   "location": "US",
+   "location": "美国",
    "disabled": false
   },
   {
@@ -69,16 +69,16 @@
    "name": "webdock",
    "type": "KVM",
    "host": "None",
-   "location": "CA",
+   "location": "德国",
    "disabled": false
   },
   {
    "username": "9",
    "password": "9",
-   "name": "Euserv",
+   "name": "ihostart",
    "type": "KVM",
    "host": "None",
-   "location": "DE",
+   "location": "罗马尼亚",
    "disabled": false
   },
   {
@@ -87,8 +87,36 @@
    "name": "香港-PCCW",
    "type": "KVM",
    "host": "None",
-   "location": "HK",
+   "location": "香港",
    "disabled": false
-  }
+  },
+  {
+   "username": "11",
+   "password": "11",
+   "name": "natvps.uk",
+   "type": "KVM",
+   "host": "None",
+   "location": "英国",
+   "disabled": false
+  },
+{
+   "username": "13",
+   "password": "13",
+   "name": "Vir-日本",
+   "type": "KVM",
+   "host": "None",
+   "location": "日本",
+   "disabled": false
+  },  
+{
+   "username": "14",
+   "password": "14",
+   "name": "Gullo's Hosting	",
+   "type": "KVM",
+   "host": "None",
+   "location": "加拿大",
+   "disabled": false
+  },    
+  
  ]
 }
