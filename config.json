@@ -6,7 +6,7 @@
    "name": "OVH-0.97",
    "type": "KVM",
    "host": "None",
-   "location": "美国",
+   "location": "US",
    "disabled": false
   },
   {
@@ -15,7 +15,7 @@
    "name": "Scaleway-星辰",
    "type": "KVM",
    "host": "None",
-   "location": "法国",
+   "location": "FR",
    "disabled": false
   },
   {
@@ -24,7 +24,7 @@
    "name": "server-factory",
    "type": "KVM",
    "host": "None",
-   "location": "荷兰",
+   "location": "NL",
    "disabled": false
   },
   {
@@ -33,7 +33,7 @@
    "name": "Web Horizon-",
    "type": "KVM",
    "host": "None",
-   "location": "荷兰",
+   "location": "NL",
    "disabled": false
   },
   {
@@ -42,7 +42,7 @@
    "name": "vpsweb-hv03",
    "type": "KVM",
    "host": "None",
-   "location": "英国",
+   "location": "UK",
    "disabled": false
   },
   {
@@ -51,7 +51,7 @@
    "name": "美国-cloudcone",
    "type": "KVM",
    "host": "None",
-   "location": "美国",
+   "location": "US",
    "disabled": false
   },
   {
@@ -60,7 +60,7 @@
    "name": "美国-RN",
    "type": "KVM",
    "host": "None",
-   "location": "美国",
+   "location": "US",
    "disabled": false
   },
   {
@@ -69,7 +69,7 @@
    "name": "webdock",
    "type": "KVM",
    "host": "None",
-   "location": "德国",
+   "location": "DE",
    "disabled": false
   },
   {
@@ -87,7 +87,7 @@
    "name": "香港-PCCW",
    "type": "KVM",
    "host": "None",
-   "location": "香港",
+   "location": "HK",
    "disabled": false
   },
   {
@@ -96,7 +96,7 @@
    "name": "natvps.uk",
    "type": "KVM",
    "host": "None",
-   "location": "英国",
+   "location": "UK",
    "disabled": false
   },
 {
@@ -105,7 +105,7 @@
    "name": "Vir-日本",
    "type": "KVM",
    "host": "None",
-   "location": "日本",
+   "location": "JP",
    "disabled": false
   },  
 {
@@ -114,7 +114,7 @@
    "name": "Gullo's Hosting	",
    "type": "KVM",
    "host": "None",
-   "location": "加拿大",
+   "location": "CA",
    "disabled": false
   },    
   
