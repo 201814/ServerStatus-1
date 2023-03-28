@@ -15,7 +15,7 @@
    "name": "Scaleway-星辰",
    "type": "KVM",
    "host": "None",
-   "location": "FR",
+   "location": "NL",
    "disabled": false
   },
   {
@@ -78,7 +78,7 @@
    "name": "ihostart",
    "type": "KVM",
    "host": "None",
-   "location": "罗马尼亚",
+   "location": "RO",
    "disabled": false
   },
   {
